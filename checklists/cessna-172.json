@@ -13,7 +13,7 @@
       "items": [
         {
           "id": "exterior-walkaround",
-          "text": "Complete exterior walkaround inspection",
+          "text": "Complete exterior walkaround inspection brother!",
           "description": "Check all external components, surfaces, and control surfaces",
           "isChecked": false,
           "isCritical": true
