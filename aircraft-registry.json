@@ -1,5 +1,15 @@
 [
   {
+    "id": "skyranger-nynja",
+    "name": "Skyranger Nynja",
+    "type": "3 axis Microlight",
+    "manufacturer": "Skyranger",
+    "model": "Nynja",
+    "description": "Popular training aircraft with excellent visibility and forgiving flight characteristics",
+    "checklistUrl": "https://raw.githubusercontent.com/brgsstm/checklists/main/checklists/skyranger-nynja.json",
+    "lastUpdated": "2024-01-15T10:00:00Z"
+  },
+  {
     "id": "cessna-172",
     "name": "Cessna 172",
     "type": "Single Engine Piston",
