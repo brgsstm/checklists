@@ -2,10 +2,10 @@
   {
     "id": "skyranger-nynja",
     "name": "Skyranger Nynja",
-    "type": "3 axis Microlight",
+    "type": "Microlight (3 axis)",
     "manufacturer": "Skyranger",
     "model": "Nynja",
-    "description": "Popular training aircraft with excellent visibility and forgiving flight characteristics",
+    "description": "The Land Rover of the skies",
     "checklistUrl": "https://raw.githubusercontent.com/brgsstm/checklists/main/checklists/skyranger-nynja.json",
     "lastUpdated": "2024-01-15T10:00:00Z"
   },
