@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cessna-172",
+    "name": "Cessna 172",
+    "type": "Single Engine Piston",
+    "manufacturer": "Cessna",
+    "model": "172",
+    "description": "Popular training aircraft with excellent visibility and forgiving flight characteristics",
+    "checklistUrl": "https://raw.githubusercontent.com/brgsstm/checklists/main/checklists/cessna-172.json",
+    "lastUpdated": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": "piper-pa28",
+    "name": "Piper PA-28 Cherokee",
+    "type": "Single Engine Piston",
+    "manufacturer": "Piper",
+    "model": "PA-28",
+    "description": "Low-wing aircraft known for its stability and ease of operation",
+    "checklistUrl": "https://raw.githubusercontent.com/brgsstm/checklists/main/checklists/piper-pa28.json",
+    "lastUpdated": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": "beechcraft-bonanza",
+    "name": "Beechcraft Bonanza",
+    "type": "Single Engine Piston",
+    "manufacturer": "Beechcraft",
+    "model": "V35",
+    "description": "High-performance single-engine aircraft with retractable landing gear",
+    "checklistUrl": "https://raw.githubusercontent.com/brgsstm/checklists/main/checklists/beechcraft-bonanza.json",
+    "lastUpdated": "2024-01-15T10:00:00Z"
+  }
+]
