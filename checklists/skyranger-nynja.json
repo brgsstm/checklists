@@ -4,7 +4,6 @@
   "aircraftType": "Skyranger Nynja",
   "version": "1.0.0",
   "description": "Complete checklist for Skyranger Nynja operations",
-  "lastUpdated": "2024-01-15T10:00:00Z",
   "sections": [
     {
       "id": "pre-flight",
@@ -14,44 +13,32 @@
         {
           "id": "exterior-walkaround",
           "text": "Complete exterior walkaround inspection",
-          "description": "Check all external components, surfaces, and control surfaces",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Check all external components, surfaces, and control surfaces"
         },
         {
           "id": "fuel-quantity",
           "text": "Verify fuel quantity and quality",
-          "description": "Check fuel levels in both tanks and ensure no contamination",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Check fuel levels in both tanks and ensure no contamination"
         },
         {
           "id": "oil-level",
           "text": "Check engine oil level",
-          "description": "Verify oil level is within normal range",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Verify oil level is within normal range"
         },
         {
           "id": "control-surfaces",
           "text": "Check control surface freedom",
-          "description": "Ensure all control surfaces move freely and correctly",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Ensure all control surfaces move freely and correctly"
         },
         {
           "id": "landing-gear",
           "text": "Inspect landing gear and tires",
-          "description": "Check tire condition, inflation, and gear security",
-          "isChecked": false,
-          "isCritical": false
+          "description": "Check tire condition, inflation, and gear security"
         },
         {
           "id": "propeller",
           "text": "Inspect propeller and spinner",
-          "description": "Check for nicks, cracks, and proper attachment",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Check for nicks, cracks, and proper attachment"
         }
       ]
     },
@@ -61,53 +48,34 @@
       "description": "Cockpit preparation and pre-start procedures",
       "items": [
         {
-          "id": "c_of_g",
-          "text": "Weight and Balance checked?",
-          "description": "Max Takeoff Weight and Center of Gravity checked?",
-          "isChecked": false,
-          "isCritical": true
-        },
-        {
           "id": "parking-brake",
           "text": "Set parking brake",
-          "description": "Ensure parking brake is engaged",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Ensure parking brake is engaged"
         },
         {
           "id": "master-switch",
           "text": "Master switch ON",
-          "description": "Turn on master electrical switch",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Turn on master electrical switch"
         },
         {
           "id": "avionics-master",
           "text": "Avionics master ON",
-          "description": "Turn on avionics master switch",
-          "isChecked": false,
-          "isCritical": false
+          "description": "Turn on avionics master switch"
         },
         {
           "id": "fuel-selector",
           "text": "Fuel selector BOTH",
-          "description": "Set fuel selector to BOTH position",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Set fuel selector to BOTH position"
         },
         {
           "id": "mixture-rich",
           "text": "Mixture RICH",
-          "description": "Set mixture control to RICH position",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Set mixture control to RICH position"
         },
         {
           "id": "throttle-closed",
           "text": "Throttle CLOSED",
-          "description": "Ensure throttle is in closed position",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Ensure throttle is in closed position"
         }
       ]
     },
@@ -119,44 +87,32 @@
         {
           "id": "clear-prop",
           "text": "Clear propeller area",
-          "description": "Shout 'CLEAR PROP' and verify area is clear",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Shout 'CLEAR PROP' and verify area is clear"
         },
         {
           "id": "master-switch-on",
           "text": "Master switch ON",
-          "description": "Turn on master electrical switch",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Turn on master electrical switch"
         },
         {
           "id": "fuel-pump-on",
           "text": "Fuel pump ON",
-          "description": "Turn on electric fuel pump",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Turn on electric fuel pump"
         },
         {
           "id": "crank-engine",
           "text": "Crank engine",
-          "description": "Turn key to START position and crank engine",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Turn key to START position and crank engine"
         },
         {
           "id": "oil-pressure",
           "text": "Check oil pressure",
-          "description": "Verify oil pressure is in green range",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Verify oil pressure is in green range"
         },
         {
           "id": "fuel-pump-off",
           "text": "Fuel pump OFF",
-          "description": "Turn off electric fuel pump after engine start",
-          "isChecked": false,
-          "isCritical": false
+          "description": "Turn off electric fuel pump after engine start"
         }
       ]
     },
@@ -168,44 +124,32 @@
         {
           "id": "runup-complete",
           "text": "Engine runup complete",
-          "description": "Perform engine runup and check all systems",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Perform engine runup and check all systems"
         },
         {
           "id": "flight-controls",
           "text": "Check flight controls",
-          "description": "Verify all flight controls move freely and correctly",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Verify all flight controls move freely and correctly"
         },
         {
           "id": "trim-set",
           "text": "Trim set for takeoff",
-          "description": "Set elevator trim for takeoff position",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Set elevator trim for takeoff position"
         },
         {
           "id": "flaps-set",
           "text": "Flaps set for takeoff",
-          "description": "Set flaps to takeoff position (usually 0° or 10°)",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Set flaps to takeoff position (usually 0° or 10°)"
         },
         {
           "id": "seatbelts",
           "text": "Seatbelts fastened",
-          "description": "Ensure all occupants have seatbelts fastened",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Ensure all occupants have seatbelts fastened"
         },
         {
           "id": "doors-locked",
           "text": "Doors closed and locked",
-          "description": "Verify all doors are closed and locked",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Verify all doors are closed and locked"
         }
       ]
     },
@@ -217,30 +161,22 @@
         {
           "id": "gear-up",
           "text": "Gear UP (if retractable)",
-          "description": "Retract landing gear after positive rate of climb",
-          "isChecked": false,
-          "isCritical": false
+          "description": "Retract landing gear after positive rate of climb"
         },
         {
           "id": "flaps-up",
           "text": "Flaps UP",
-          "description": "Retract flaps after reaching safe altitude",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Retract flaps after reaching safe altitude"
         },
         {
           "id": "climb-power",
           "text": "Set climb power",
-          "description": "Adjust throttle for climb power setting",
-          "isChecked": false,
-          "isCritical": false
+          "description": "Adjust throttle for climb power setting"
         },
         {
           "id": "mixture-lean",
           "text": "Lean mixture for cruise",
-          "description": "Lean mixture for best power or economy",
-          "isChecked": false,
-          "isCritical": false
+          "description": "Lean mixture for best power or economy"
         }
       ]
     },
@@ -252,30 +188,22 @@
         {
           "id": "cruise-power",
           "text": "Set cruise power",
-          "description": "Adjust throttle for cruise power setting",
-          "isChecked": false,
-          "isCritical": false
+          "description": "Adjust throttle for cruise power setting"
         },
         {
           "id": "mixture-optimize",
           "text": "Optimize mixture",
-          "description": "Lean mixture for best economy",
-          "isChecked": false,
-          "isCritical": false
+          "description": "Lean mixture for best economy"
         },
         {
           "id": "trim-cruise",
           "text": "Trim for cruise",
-          "description": "Adjust trim for hands-off flight",
-          "isChecked": false,
-          "isCritical": false
+          "description": "Adjust trim for hands-off flight"
         },
         {
           "id": "monitor-gauges",
           "text": "Monitor engine gauges",
-          "description": "Regularly check oil pressure, temperature, and fuel flow",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Regularly check oil pressure, temperature, and fuel flow"
         }
       ]
     },
@@ -287,30 +215,22 @@
         {
           "id": "reduce-power",
           "text": "Reduce power for descent",
-          "description": "Reduce throttle to begin descent",
-          "isChecked": false,
-          "isCritical": false
+          "description": "Reduce throttle to begin descent"
         },
         {
           "id": "mixture-rich",
           "text": "Mixture RICH",
-          "description": "Enrich mixture for descent and approach",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Enrich mixture for descent and approach"
         },
         {
           "id": "landing-lights",
           "text": "Landing lights ON",
-          "description": "Turn on landing lights for visibility",
-          "isChecked": false,
-          "isCritical": false
+          "description": "Turn on landing lights for visibility"
         },
         {
           "id": "seatbelts-check",
           "text": "Check seatbelts",
-          "description": "Ensure all occupants have seatbelts fastened",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Ensure all occupants have seatbelts fastened"
         }
       ]
     },
@@ -322,37 +242,27 @@
         {
           "id": "flaps-approach",
           "text": "Flaps approach setting",
-          "description": "Set flaps to approach position (usually 20° or 25°)",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Set flaps to approach position (usually 20° or 25°)"
         },
         {
           "id": "gear-down",
           "text": "Gear DOWN (if retractable)",
-          "description": "Extend landing gear and verify down and locked",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Extend landing gear and verify down and locked"
         },
         {
           "id": "final-flaps",
           "text": "Flaps full down",
-          "description": "Set flaps to full down position for landing",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Set flaps to full down position for landing"
         },
         {
           "id": "mixture-rich-final",
           "text": "Mixture RICH",
-          "description": "Ensure mixture is in RICH position",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Ensure mixture is in RICH position"
         },
         {
           "id": "carb-heat",
           "text": "Carb heat ON (if applicable)",
-          "description": "Turn on carburetor heat if equipped",
-          "isChecked": false,
-          "isCritical": false
+          "description": "Turn on carburetor heat if equipped"
         }
       ]
     },
@@ -364,30 +274,22 @@
         {
           "id": "flaps-up",
           "text": "Flaps UP",
-          "description": "Retract flaps after landing",
-          "isChecked": false,
-          "isCritical": false
+          "description": "Retract flaps after landing"
         },
         {
           "id": "carb-heat-off",
           "text": "Carb heat OFF",
-          "description": "Turn off carburetor heat",
-          "isChecked": false,
-          "isCritical": false
+          "description": "Turn off carburetor heat"
         },
         {
           "id": "landing-lights-off",
           "text": "Landing lights OFF",
-          "description": "Turn off landing lights",
-          "isChecked": false,
-          "isCritical": false
+          "description": "Turn off landing lights"
         },
         {
           "id": "transponder-standby",
           "text": "Transponder STANDBY",
-          "description": "Set transponder to STANDBY mode",
-          "isChecked": false,
-          "isCritical": false
+          "description": "Set transponder to STANDBY mode"
         }
       ]
     },
@@ -399,44 +301,32 @@
         {
           "id": "parking-brake-set",
           "text": "Set parking brake",
-          "description": "Engage parking brake",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Engage parking brake"
         },
         {
           "id": "mixture-cutoff",
           "text": "Mixture CUTOFF",
-          "description": "Pull mixture to CUTOFF position",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Pull mixture to CUTOFF position"
         },
         {
           "id": "master-switch-off",
           "text": "Master switch OFF",
-          "description": "Turn off master electrical switch",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Turn off master electrical switch"
         },
         {
           "id": "mags-off",
           "text": "Magnetos OFF",
-          "description": "Turn off magneto switches",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Turn off magneto switches"
         },
         {
           "id": "fuel-selector-off",
           "text": "Fuel selector OFF",
-          "description": "Turn fuel selector to OFF position",
-          "isChecked": false,
-          "isCritical": true
+          "description": "Turn fuel selector to OFF position"
         },
         {
           "id": "doors-unlock",
           "text": "Unlock doors",
-          "description": "Unlock all doors for exit",
-          "isChecked": false,
-          "isCritical": false
+          "description": "Unlock all doors for exit"
         }
       ]
     }
