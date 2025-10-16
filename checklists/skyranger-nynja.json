@@ -49,6 +49,11 @@
           "id": "test-2",
           "text": "This is another test item",
           "description": "Check for nicks, cracks, and proper attachment"
+        },
+        {
+          "id": "test-3",
+          "text": "This is yet another test item",
+          "description": "Check for nicks, cracks, and proper attachment"
         }
       ]
     },
