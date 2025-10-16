@@ -43,76 +43,69 @@
       ]
     },
     {
-      "id": "pre-start",
-      "title": "Pre-Start Checklist",
-      "description": "Cockpit preparation and pre-start procedures",
+      "id": "start",
+      "title": "Start Checklist",
+      "description": "Cockpit preparation and start procedures",
       "items": [
         {
-          "id": "parking-brake",
-          "text": "Set parking brake",
-          "description": "Ensure parking brake is engaged"
+          "id": "weight_c_of_g",
+          "text": "Weight and C of G",
+          "description": "Weight and C of G within limits?"
         },
         {
-          "id": "master-switch",
-          "text": "Master switch ON",
-          "description": "Turn on master electrical switch"
+          "id": "security",
+          "text": "Security",
+          "description": "Aircraft, crew and equipment secure"
         },
         {
-          "id": "avionics-master",
-          "text": "Avionics master ON",
-          "description": "Turn on avionics master switch"
+          "id": "brakes",
+          "text": "Brakes",
+          "description": "Brakes ON"
         },
         {
-          "id": "fuel-selector",
-          "text": "Fuel selector BOTH",
-          "description": "Set fuel selector to BOTH position"
+          "id": "throttle",
+          "text": "Throttle",
+          "description": "Full and free, set CLOSED"
         },
         {
-          "id": "mixture-rich",
-          "text": "Mixture RICH",
-          "description": "Set mixture control to RICH position"
+          "id": "fuel",
+          "text": "Fuel ON",
+          "description": "Fuel Valve to ON"
         },
         {
-          "id": "throttle-closed",
-          "text": "Throttle CLOSED",
-          "description": "Ensure throttle is in closed position"
-        }
-      ]
-    },
-    {
-      "id": "engine-start",
-      "title": "Engine Start",
-      "description": "Engine starting procedures",
-      "items": [
-        {
-          "id": "clear-prop",
-          "text": "Clear propeller area",
-          "description": "Shout 'CLEAR PROP' and verify area is clear"
+          "id": "area",
+          "text": "Area",
+          "description": "All around and behind aircraft clear"
         },
         {
-          "id": "master-switch-on",
-          "text": "Master switch ON",
-          "description": "Turn on master electrical switch"
+          "id": "prime",
+          "text": "Prime Fuel Pump",
+          "description": "Fuel pump ON for 5 Seconds (if first start of the day), set OFF"
         },
         {
-          "id": "fuel-pump-on",
-          "text": "Fuel pump ON",
-          "description": "Turn on electric fuel pump"
+          "id": "ignition",
+          "text": "Ignition",
+          "description": "Ignition switches ON"
         },
         {
-          "id": "crank-engine",
-          "text": "Crank engine",
-          "description": "Turn key to START position and crank engine"
+          "id": "prop",
+          "text": "Prop",
+          "description": "Shout ‘CLEAR PROP’"
         },
         {
-          "id": "oil-pressure",
-          "text": "Check oil pressure",
-          "description": "Verify oil pressure is in green range"
+          "id": "start",
+          "text": "Start Engine",
+          "description": "Pull CHOKE (if required) and START engine"
         },
         {
-          "id": "fuel-pump-off",
-          "text": "Fuel pump OFF",
-          "description": "Turn off electric fuel pump after engine start"
+          "id": "post-start",
+          "text": "Set 2000 RPM",
+          "description": "Slowly reduce CHOKE and reset 2000 RPM"
+        },
+        {
+          "id": "monitor",
+          "text": "Monitor Oil Pressure",
+          "description": "Monitor oil pressure, shut down if insufficient oil pressure within 5 seconds"
         }
       ]
     },
