@@ -61,6 +61,13 @@
       "description": "Cockpit preparation and pre-start procedures",
       "items": [
         {
+          "id": "c_of_g",
+          "text": "Weight and Balance checked?",
+          "description": "Max Takeoff Weight and Center of Gravity checked?",
+          "isChecked": false,
+          "isCritical": true
+        },
+        {
           "id": "parking-brake",
           "text": "Set parking brake",
           "description": "Ensure parking brake is engaged",
